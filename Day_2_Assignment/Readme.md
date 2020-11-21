@@ -62,3 +62,5 @@ LEFT 3 <br>
 RIGHT 2 <br>
 Output: <br>
 2
+
+C201116C201116
