@@ -26,3 +26,5 @@ Hint: Use vstack(), hstack()
 <br><br>
 ## Questions 6:
 How to get unique items and counts of unique items?
+
+C201116C201116
