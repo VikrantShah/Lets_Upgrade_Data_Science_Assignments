@@ -102,3 +102,6 @@ so it is possible to have missing chunks in a match.
 20. Add a new column called ‘KILL’ which contains the sum of following columns viz. headshotKills, teamKills, roadKills.
 21. Round off column ‘winPlacePerc’ to 2 decimals.
 22. Take a sample of size 50 from the column damageDealt for 100 times and calculate its mean. Plot it on a histogram and comment on its distribution.
+
+<br>
+C201116C201117
